@@ -5,6 +5,6 @@
 -->
 
 About me:
-- 💪 I'm a computer engineer.
+- 💪 I'm a software engineer.
 - 🌱 I’m currently learning Full Stack Node & MS in Operations Research.
 - ⚡ Fun fact: I'm a writer.
